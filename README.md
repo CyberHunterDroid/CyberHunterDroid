@@ -53,12 +53,3 @@ Tip: Pin up to 6 repositories on your GitHub profile to highlight your best work
 
 ---
 
-## Badges & GitHub Stats
-
-[![GitHub followers](https://img.shields.io/github/followers/CyberHunterDroid?label=Follow&style=social)](https://github.com/CyberHunterDroid)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberHunterDroid&show_icons=true&count_private=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberHunterDroid&layout=compact&theme=dark)
-
----
