@@ -41,7 +41,7 @@ My journey in tech began with building complex interactive systems. This experie
 | Category | Tools & Skills |
 | :--- | :--- |
 | **Security** | Nmap, Wireshark, Metasploit, Linux (Kali/Parrot) |
-| **Development** | Python, C#, TypeScript |
+| **Development** | Python, C#, TypeScript, c++ |
 | **Game Dev** | Unity, Cocos Creator, Game Logic & Physics |
 | **Infrastructure** | Git, VirtualBox/VMware, Basic Networking |
 
